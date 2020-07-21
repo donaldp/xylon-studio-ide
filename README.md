@@ -16,14 +16,14 @@ This is the default "Pop up window" when adding a new file.
 
 These configurations allow you to change the default dotNet framework you application uses, add dependencies, change application arch, attach processors to the application, and more.
 
-#### Playground Application
+#### Playground Application (College) 
 <img src="https://raw.githubusercontent.com/donaldp/xylon-studio-ide/master/xs-playground.png" />
 
 This is a Playground application for testing C Modulus code. This application is also written in C Modulus using the Xylon Studio IDE.
 
-#### Streaming Service API 
+#### Streaming Service API (College) 
 <img src="https://raw.githubusercontent.com/donaldp/xylon-studio-ide/master/api.gif" />
 
-This API is written in C Modulus using Xylon Studio.
+This API is written in C Modulus using the Xylon Studio IDE.
 
-> Side note: I built this in Grade 10, when I was still a *"Hoerskool Dr Johan Jurgen High School"* student, so the code isn't the greatest. 
+> Side note: I started working on this in Grade 10, when I was still a *"Hoerskool Dr Johan Jurgen High School"* student, so the code isn't the greatest. 
