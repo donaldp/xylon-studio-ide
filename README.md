@@ -26,4 +26,4 @@ This is a Playground application for testing C Modulus code. This application is
 
 This API is written in C Modulus using the Xylon Studio IDE.
 
-> Side note: I started working on this IDE in Grade 10, when I was still a *"Hoerskool Dr Johan Jurgen High School"* student, so the code isn't the greatest. 
+> Side note: I started working on this IDE in Grade 10, when I was still a *"Hoerskool Dr Johan Jurgens High School"* student, so the code isn't the greatest. 
