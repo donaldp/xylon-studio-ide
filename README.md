@@ -21,4 +21,9 @@ These configurations allow you to change the default dotNet framework you applic
 
 This is a Playground application for testing C Modulus code. This application is also written in C Modulus using the Xylon Studio IDE.
 
+#### Streaming Service API 
+<img src="https://raw.githubusercontent.com/donaldp/xylon-studio-ide/master/api.gif" />
+
+This API is written in C Modulus using Xylon Studio.
+
 > Side note: I built this in Grade 10, when I was still a *"Hoerskool Dr Johan Jurgen High School"* student, so the code isn't the greatest. 
